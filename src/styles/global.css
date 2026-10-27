@@ -620,9 +620,21 @@ hr {
     max-width: 40ch;
   }
 
-  .sidebar .contact,
-  .nav li:not(.secondary) {
+  .nav li:not(.secondary),
+  .sidebar .contact .city,
+  .index-count {
     display: none;
+  }
+
+  /* Email and update date in small type under the statement. */
+  .sidebar .contact {
+    order: 3;
+    flex-basis: 100%;
+    margin-top: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0 1rem;
+    font-size: var(--fs-xs);
   }
 
   .nav li.secondary,
