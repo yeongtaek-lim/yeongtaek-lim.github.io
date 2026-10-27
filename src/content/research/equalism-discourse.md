@@ -18,7 +18,7 @@ links:
 
 "Equalism" started circulating in Korean online communities around 2016, when a user wrote a Namuwiki entry presenting it as a serious school of thought, supported by captioned lecture images that did not contain the word. Major news outlets reported in early 2017 that the concept had been made up, and Namuwiki renamed the entry a fabrication incident. Yet in January 2024 a cable survival show still set "feminism" against "equalism" as opposing positions. The project asks what the word is actually used for once it has been exposed as baseless.
 
-The data come from DCinside, a large Korean community site. The team searched all galleries for six spellings and variants of "equalism" and "equalist", then manually removed audio-equalizer posts. This gave 2,339 posts and 8,576 comments with metadata such as date, upvotes and views. Posts per year were 496 (2017), 551 (2018), 207, 203, 371 (2021), 220, 99 (2023) and 192 (2024, collected in mid-year). Because DCinside comments are often unrelated to the post and resemble posts in length, each post and each comment was treated as a separate document.
+The data come from DCinside, a large Korean community site. The team searched all galleries for six spellings and variants of "equalism" and "equalist," then manually removed audio-equalizer posts. This gave 2,339 posts and 8,576 comments with metadata such as date, upvotes and views. Posts per year were 496 (2017), 551 (2018), 207, 203, 371 (2021), 220, 99 (2023) and 192 (2024, collected in mid-year). Because DCinside comments are often unrelated to the post and resemble posts in length, each post and each comment was treated as a separate document.
 
 ![Posts mentioning "equalism" on DCinside per year, 2017-2024 (2,339 posts in total). Activity falls after 2018 but rises again when related debates flare up. 2024 is a partial year.](./equalism-discourse/fig-1.png)
 
@@ -32,7 +32,7 @@ The page reads the discourse as mixed but weighted toward hostility. Doubt about
 
 ![Topic 2 (doubt about the basis of equalism) against Topic 5 (right-wing orientation), 2017-2023: the two lines cross around 2020 and end at about 8% and 16%. The page reports a correlation of -0.96.](./equalism-discourse/fig-4.png)
 
-The work was presented as a poster, in Korean, at the 14th Korea Internet Governance Forum in Seoul in July 2025 and received the Outstanding Poster Presentation Award. I was the first author, with J. Choi as co-author. On the project page, which the team published on 31 October 2024 under the name See-Saw, I am credited with project lead and data collection, and J. Choi with the topic modeling and analysis. Ha-neul Hong built the page.
+The work was presented as a poster, in Korean, at the 14th Korea Internet Governance Forum in Seoul in July 2025 and received the Outstanding Poster Presentation Award. I was the first author, with J. Choi as co-author. On the project page, which the team published on October 31, 2024, under the name See-Saw, I am credited with project lead and data collection, and J. Choi with the topic modeling and analysis. Ha-neul Hong built the page.
 
 ## Interactive page
 

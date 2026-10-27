@@ -5,7 +5,7 @@ export const site = {
   email: 'yeongtaek1337@gmail.com',
   city: 'Seoul',
   statement:
-    'Computational social scientist, curator and critic. I study how platforms, data and work reorganise social life, and I take the same questions into exhibitions and criticism.',
+    'Computational social scientist, curator and critic. I study how platforms, data and work reorganize social life, and I take the same questions into exhibitions and criticism.',
   updated: 'Oct 2026',
 };
 
