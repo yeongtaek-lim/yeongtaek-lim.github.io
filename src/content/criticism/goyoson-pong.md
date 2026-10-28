@@ -4,7 +4,7 @@ type: "Review"
 role: "Critic and photographer"
 date: 2025-01-01
 dateLabel: "2025"
-venue: "PONG (webzine)"
+venue: "PONG"
 links: []
 cover: ./goyoson-pong/cover.jpg
 coverCaption: "Published page"
