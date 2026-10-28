@@ -4,7 +4,7 @@ type: "Essay"
 role: "Critic"
 date: 2020-10-07
 dateLabel: "Oct 2020"
-venue: "Critic-al (webzine)"
+venue: "Critic-al"
 links: [{ label: "Original text (Critic-al)", url: "http://www.critic-al.org/?p=6096" }]
 order: 4
 summary: "An essay arguing that Korea's trot audition shows feature little trot and trade on the youth of their contestants, for an older audience with money but little authority."

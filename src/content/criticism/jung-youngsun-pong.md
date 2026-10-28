@@ -4,7 +4,7 @@ type: "Review"
 role: "Critic"
 date: 2024-10-01
 dateLabel: "Oct 2024"
-venue: "PONG (webzine)"
+venue: "PONG"
 links:
   - label: "Original text (PONG)"
     url: "https://pong.pub/?p=1939"
