@@ -1,6 +1,5 @@
 ---
 title: "On Goyoson's solo exhibition"
-type: "Review"
 role: "Critic and photographer"
 date: 2025-01-01
 dateLabel: "2025"
