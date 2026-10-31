@@ -6,11 +6,11 @@ date: 2024-10-01
 dateLabel: "Jul – Oct 2024"
 venue: "Korea Information Society Development Institute (KISDI)"
 collaborators:
-  - "Dr. Hyunkyung Lee (supervisor)"
+  - "Dr. Hyun Kyong Lee (supervisor)"
   - "Prof. Byungjun Kim (supervisor)"
 summary: "Structural topic modeling of 1,774 Korean AI job listings (Aug 2024) shows which AI skills employers ask for and how degree, experience and major shift demand."
 cover: ./ai-skill-demand/cover.jpg
-coverCaption: "Research plan: linking industry demand (online job postings), education supply (course syllabi) and expert interviews into an AI skill strategy for Korea. Slide from Hyunkyung Lee's presentation."
+coverCaption: "Research plan: linking industry demand (online job postings), education supply (course syllabi) and expert interviews into an AI skill strategy for Korea. Slide from Hyun Kyong Lee's presentation."
 ---
 
 Official statistics are slow to capture the labor demand created by AI. This KISDI project, "AI Skill Demand Analysis Using a Skill Value Chain Framework," builds on a 2023 study that applied a skill value chain to AI. The chain links skill demand from industry, skill training in higher education, and expert views about future needs. The question for this part was which skills Korean employers ask for in AI-related roles, and whether Korean postings show a different pattern from the overseas studies the team reviewed.
@@ -33,7 +33,7 @@ The covariates separated the topics. Machine learning and deep learning, AI-base
 
 ![Importance of AI skill clusters across all postings, computed from topic shares weighted by the clusters each topic was matched to.](./ai-skill-demand/fig-5.jpg)
 
-My role as research assistant, from July to October 2024, was to collect the job postings and run the structural topic modeling and word-frequency analysis. The presentation lists me as part of the research team. Dr. Hyunkyung Lee and Prof. Byungjun Kim supervised the project.
+My role as research assistant, from July to October 2024, was to collect the job postings and run the structural topic modeling and word-frequency analysis. The presentation lists me as part of the research team. Dr. Hyun Kyong Lee and Prof. Byungjun Kim supervised the project.
 
 Dr. Lee presented the project as Presentation 3 in the session "Social Challenges for Labor-Friendly AI" at the 2024 Research Symposium on ICT-Based Solutions to Social Issues, organized under the Ministry of Science and ICT. The presentation also covered a survey of AI course syllabi at universities and the K-MOOC platform, and domestic cases of new AI education models. Those parts are not summarized here.
 
