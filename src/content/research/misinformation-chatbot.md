@@ -8,6 +8,7 @@ venue: "Korea Press Foundation"
 location: "Seoul"
 collaborators:
   - "Dr. Soeun Yang (supervisor)"
+  - "Prof. Byungjun Kim (supervisor)"
 summary: "Meta4AI, a Claude-based chatbot set to give false references, biased readings and a wrong theory summary, was used to observe how 224 adults check AI answers; about 94% of one task's sample missed the false references."
 cover: ./misinformation-chatbot/cover.jpg
 coverCaption: "Task screen for the sunscreen task in the observational study, with the two false references the chatbot was set to give when asked for sources (Table 5-1 of the report). The report does not print a screenshot of the chat window itself."
@@ -38,7 +39,7 @@ Use was near ceiling and evaluation was low. In the sunscreen task, 94.8% scored
 
 ![Use and evaluation scores, column-writing task (Figure 5-11 of the report).](./misinformation-chatbot/fig-5.jpg)
 
-I built the chatbot and its task-specific system prompts, ran the deployment to the panel participants, and managed the resulting data. The report itself does not list individual contributors, so this description of my role comes from my own account. The study was supervised by Dr. Soeun Yang. The group comparisons in the chapter's later pages are not summarized here.
+I built the chatbot and its task-specific system prompts, ran the deployment to the panel participants, and managed the resulting data. The report itself does not list individual contributors, so this description of my role comes from my own account. The study was supervised by Dr. Soeun Yang and Prof. Byungjun Kim. The group comparisons in the chapter's later pages are not summarized here.
 
 ## Source
 
