@@ -1,9 +1,9 @@
 ---
 title: "Estimating AI Automation Exposure for 60,000 Occupations"
-type: "Research project (ongoing)"
-role: "Researcher"
+type: "Research project"
+role: "Research Assistant"
 date: 2026-10-01
-dateLabel: "May 2026 – ongoing"
+dateLabel: "May 2026; Oct 2026"
 venue: "Korea Information Society Development Institute (KISDI)"
 location: "Jincheon"
 collaborators:
@@ -20,6 +20,6 @@ I developed an LLM pipeline with retrieval-augmented generation (RAG) to score 6
 
 The pipeline reduced a labeling process estimated at one month to two days. I also managed the structured AI exposure estimates and carried out statistical analyses of how exposure varies across occupations. The work was supervised by Dr. Ahram Moon.
 
-The project is ongoing. One line of work compares how consistently different language models score the same job across repeated runs, and how their score distributions differ.
+I took part as a research assistant twice, for a month each time: in May 2026 and again in October 2026. One line of the work compares how consistently different language models score the same job across repeated runs, and how their score distributions differ.
 
 ![Distribution of automation-exposure scores by model: ChatGPT (mean 0.320), Claude (0.287) and Gemini (0.352).](./ai-exposure-pipeline/fig-1.png)
